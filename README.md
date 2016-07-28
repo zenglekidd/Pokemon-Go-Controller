@@ -102,3 +102,8 @@ So change the x,y location of your xcode's simulate button. LOL don't ask me you
 
 # Have Fun!
 ![Alt text](Assets/finalResult.png?raw=true "final result") 
+
+# More Resources
+ 1. [Pokemondex](https://gist.githubusercontent.com/jacobmarshall/4b990717a8d4221586df9f9e68414894/raw/pokedex.json)
+
+ 2. [Pokemon sprite](https://img.pokemondb.net/sprites/black-white/normal/pikachu.png)
